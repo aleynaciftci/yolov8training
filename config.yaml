@@ -1,0 +1,7 @@
+path: C:\Users\aleyna\OneDrive\Masaüstü\code\yolotraining #path to the file where everything will be saved
+train: images\train #train images (relative to 'path')
+val: images\train #validation images (relative to 'path')
+
+#classes
+names:
+  0: airplane
